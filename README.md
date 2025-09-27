@@ -39,15 +39,15 @@ The goal is to help stakeholders understand **why customers leave** and **predic
 
 ---
 
-## 📈 Results & Insights  
-- **Churn Rate:** 26.6% of customers churned.  
-- **High-risk groups:**  
-  - Month-to-Month contract customers.  
-  - Customers with **Fiber Optic internet**.  
-  - Customers with **No Tech Support**.  
-- **Stable customers:**  
-  - Those with **2-year contracts**.  
-  - Payment via **automatic transfers (bank/credit card)**.  
+## 📊 Customer Prediction Results & Insights
+
+### 🔹 Prediction Overview  
+- **Total Customers:** 7032  
+- **Predicted Churners:** 2401  
+- **Overall Churn Rate:** 26.6%  
+
+The ML model successfully identified customers most likely to churn based on **contract type, tenure, internet service, and tech support availability**.  
+
 
 ---
 
